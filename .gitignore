@@ -1,0 +1,29 @@
+# Secrets
+.env
+
+# Datasets
+data/
+dataset/
+
+# Python code
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# macOS files
+.DS_Store
+
+# Lesson/practice files
+lesson*.py
+gradient_learning.py
+mnist_cnn_model.pth
+
+# Trained model files
+*.pth
+
+#Other files not part of the project 
+Archive.zip
+Screenshot*

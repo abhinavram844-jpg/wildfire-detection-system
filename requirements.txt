@@ -1,0 +1,6 @@
+torch
+torchvision
+Pillow
+sckit-learn
+twilio
+python-dotenv
